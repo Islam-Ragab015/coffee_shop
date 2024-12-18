@@ -1,16 +1,32 @@
-# coffee_shop
+# Coffee Shop App
 
-A new Flutter project.
+Welcome to the **Coffee Shop App** – your ultimate destination for discovering a variety of coffees, each tailored to your taste and preferences. Whether you’re looking for a strong **Espresso**, a frothy **Latte**, or a delicious **Cappuccino**, we've got you covered. Dive into our menu, customize your coffee with your favorite additions, and enjoy a seamless shopping experience.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Wide Coffee Selection**: Explore various coffee types like **Espresso**, **Latte**, **Cappuccino**, and more.
+- **Customization**: Add your choice of milk (Oat Milk, Regular Milk), and enjoy a perfect cup every time.
+- **Variety of Chocolate**: Choose from **Milk Chocolate**, **White Chocolate**, or **Dark Chocolate** to add a touch of sweetness.
+- **Ratings & Reviews**: Read customer feedback and make informed choices with our rating system (average rating of **4.8** from **6,098** reviews).
+- **Seamless Ordering**: Easily browse, add items to your cart, and purchase with just a tap.
+- **Personalized Experience**: Special offers and recommendations tailored to your taste.
+- **Multi-size Options**: Available in **Small (S)**, **Medium (M)**, and **Large (L)** sizes.
+- **Delivery**: Get your favorite coffee delivered to you with an affordable delivery fee of **$3** in the **US**.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Home Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Showcasing featured coffees and personalized recommendations.
+
+### Menu
+
+- Browse through various coffee and chocolate options.
+
+### Cart
+
+- Easily view and manage items in your cart.
+
+### Profile & Notifications
+
+- Keep track of your purchases, and favorite coffees, and receive updates.
