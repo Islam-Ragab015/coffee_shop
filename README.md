@@ -16,17 +16,14 @@ Welcome to the **Coffee Shop App** – your ultimate destination for discovering
 ## Screenshots
 
 ### Home Screen
-
+![Home Screen](assets/screenshots/home.png)
 - Showcasing featured coffees and personalized recommendations.
 
 ### Menu
-
+![Item Customization](assets/screenshots/item_custom.png)
 - Browse through various coffee and chocolate options.
 
 ### Cart
-
+![Cart](assets/screenshots/cart.png)
 - Easily view and manage items in your cart.
 
-### Profile & Notifications
-
-- Keep track of your purchases, and favorite coffees, and receive updates.
